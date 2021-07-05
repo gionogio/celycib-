@@ -1,0 +1,27 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Dirt.amxd",
+	"origin" : "Dirt.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Dirt.amxd",
+		"origname" : "~/Desktop/confetti-master/Dirt.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bass" : 100.0,
+				"Choke" : 100.0,
+				"Gain" : 0.0,
+				"Mode" : 1.0,
+				"Preclip" : 18.110236220472441,
+				"Treble" : 100.0
+			}
+
+		}
+
+	}
+
+}

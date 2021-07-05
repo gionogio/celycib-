@@ -1,0 +1,28 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Chopper.amxd",
+	"origin" : "Chopper.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Chopper.amxd",
+		"origname" : "~/Desktop/confetti-master/Chopper.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Blend" : 0.0,
+				"Crossings" : 149.0,
+				"Maximum" : 120.0,
+				"Minimum" : 13.602362204724407,
+				"Mode" : 0.0,
+				"Rate" : 1.0,
+				"Repeats" : 40.0
+			}
+
+		}
+
+	}
+
+}

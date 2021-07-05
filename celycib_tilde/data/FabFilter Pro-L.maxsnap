@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "FabFilter Pro-L",
+	"origin" : "FabFilter Pro-L.vstinfo",
+	"type" : "VST",
+	"subtype" : "MidiEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "FabFilter Pro-L.vstinfo",
+		"plugindisplayname" : "FabFilter Pro-L",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 1179667570,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "132.CMlaKA....fQ3MzZ....AXDTLIG...P.....SPTYlEVcrQGHSUFczklamA......................+.H..zCSL2rOKaY29Ts3o8SFYp4O.B............vOpn5p.....7Cf..vO.B.......3CSL27O.B..+.H..7Cf........"
+	}
+
+}

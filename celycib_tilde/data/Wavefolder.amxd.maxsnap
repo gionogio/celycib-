@@ -1,0 +1,28 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Wavefolder.amxd",
+	"origin" : "Wavefolder.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Wavefolder.amxd",
+		"origname" : "D:/HD/mega/HDD/gono/Projects/_mine/LiveSet-May/Iterative_textural/patchers/Wavefolder.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bass" : 100.0,
+				"Crease" : 0.0,
+				"Fold" : 0.0,
+				"Gain" : 0.0,
+				"Level" : 0.00376875967423,
+				"Offset" : 50.0,
+				"Treble" : 100.0
+			}
+
+		}
+
+	}
+
+}

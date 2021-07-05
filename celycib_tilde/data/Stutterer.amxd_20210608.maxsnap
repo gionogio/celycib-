@@ -1,0 +1,40 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Stutterer.amxd",
+	"origin" : "Stutterer.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 1,
+	"snapshot" : 	{
+		"name" : "Stutterer.amxd",
+		"origname" : "D:/HD/mega/HDD/gono/Projects/_mine/LiveSet-May/celycib_tilde/patchers/Stutterer.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"auto_trig" : 0.0,
+				"defaultPitch" : 0.0,
+				"density" : 100.0,
+				"note_length" : 3.0,
+				"trigger" : 0.0,
+				"wet_dry" : 100.0,
+				"Multiplier" : 1.0,
+				"Portamento" : 50.0,
+				"left_freeze" : 0.0,
+				"note" : 10.0,
+				"reverse" : 0.0,
+				"stutter_time" : 3000.0,
+				"stutters" : 74.0,
+				"sync" : 0.0,
+				"blob" : 				{
+					"lMulti" : [ 360, 346, 462, 462, 462, 577, 616, 654, 692, 769, 808, 808, 808, 846, 885, 669, 923, 923, 962, 962, 962, 962, 885, 769, 538, 385, 269, 269, 192, 154, 154, 231 ],
+					"ranger" : [ 64, 64 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

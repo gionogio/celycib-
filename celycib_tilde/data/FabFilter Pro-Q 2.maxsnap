@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "FabFilter Pro-Q 2",
+	"origin" : "FabFilter Pro-Q 2.dll",
+	"type" : "VST",
+	"subtype" : "MidiEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "FabFilter Pro-Q 2.dll",
+		"plugindisplayname" : "FabFilter Pro-Q 2",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "820.CMlaKA....fQ3MzZ....AXTTx.G...P.....+RTYlEVcrQGHSUFczklamA......................8rajZ6C8tKfOrJWa9HQRk3C...vO.B..+....3SoBOlOt496+L0vD.....fO....+.H..7C...fO.40Z.....3Cqx0lORjTI9.L..7Cf..vO....9.rdj.....vOO8Ig.....3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf..vO.B..+LwOM9C...vO.........3C...vO.B..+.H..7yD+z3O....+.........fO....+.H..7Cf..vOS7Si+....7C.........9....7Cf........9.H.......vO....+....7C...................vO.B..+.H.......vO....9nppq9C...vO.A.......7Cf..vO.B............vO.........."
+	}
+
+}

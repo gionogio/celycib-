@@ -1,0 +1,40 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Stutterer.amxd",
+	"origin" : "Stutterer.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Stutterer.amxd",
+		"origname" : "D:/HD/mega/HDD/gono/Projects/_mine/LiveSet-May/Iterative_textural/patchers/Stutterer.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"auto_trig" : 0.0,
+				"defaultPitch" : 0.0,
+				"density" : 100.0,
+				"note_length" : 9.0,
+				"trigger" : 0.0,
+				"wet_dry" : 100.0,
+				"Multiplier" : 1.0,
+				"Portamento" : 100.0,
+				"left_freeze" : 0.0,
+				"note" : 21.0,
+				"reverse" : 0.0,
+				"stutter_time" : 3000.0,
+				"stutters" : 16.0,
+				"sync" : 0.0,
+				"blob" : 				{
+					"lMulti" : [ 758, 820, 852, 852, 852, 860, 860, 860, 860, 860, 860, 852, 813, 758, 625, 570, 461, 390, 320, 288, 273, 257, 242, 242, 234, 249, 281, 312, 335, 359, 390, 437 ],
+					"ranger" : [ 47, 80 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

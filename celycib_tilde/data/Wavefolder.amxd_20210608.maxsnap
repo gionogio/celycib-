@@ -1,0 +1,28 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Wavefolder.amxd",
+	"origin" : "Wavefolder.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 1,
+	"snapshot" : 	{
+		"name" : "Wavefolder.amxd",
+		"origname" : "D:/HD/mega/HDD/gono/Projects/_mine/LiveSet-May/celycib_tilde/patchers/Wavefolder.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bass" : 60.0,
+				"Crease" : 100.0,
+				"Fold" : 0.0,
+				"Gain" : 100.0,
+				"Level" : -5.98290598290599,
+				"Offset" : 50.0,
+				"Treble" : 60.0
+			}
+
+		}
+
+	}
+
+}

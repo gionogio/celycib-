@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "FabFilter Pro-C 2",
+	"origin" : "FabFilter Pro-C 2.vstinfo",
+	"type" : "VST",
+	"subtype" : "MidiEffect",
+	"embed" : 1,
+	"snapshot" : 	{
+		"pluginname" : "FabFilter Pro-C 2.vstinfo",
+		"plugindisplayname" : "FabFilter Pro-C 2",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 1178808944,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "240.CMlaKA....fQ3MzZ....AXzPx.G...P.....tPTYlEVcrQGHSUFczklamA......................+LyLy7SFYpoO.B..+.H..zCyL2rOR2ns................+....7C.........+....7Cf.............7C...vO..............fOtQo69.L..7Cf..vO.B..+.g9Q9C...vO..............vOL8Iy9.L.............+....7C...vO....+....7C.........................+.D..7Cf..vO.B.."
+	}
+
+}

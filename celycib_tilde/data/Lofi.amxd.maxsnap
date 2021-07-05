@@ -1,0 +1,28 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Lofi.amxd",
+	"origin" : "Lofi.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Lofi.amxd",
+		"origname" : "D:/HD/mega/HDD/gono/Projects/_mine/LiveSet-May/Iterative_textural/patchers/Lofi.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bit" : 8.795275590551187,
+				"Bitwise" : 8.0,
+				"Blend" : 0.0,
+				"Detail" : 0.0,
+				"Mp3ify" : 100.0,
+				"Routing" : 0.0,
+				"Sample" : 14597.637795275602912
+			}
+
+		}
+
+	}
+
+}
