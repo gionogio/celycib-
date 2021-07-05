@@ -1,4 +1,4 @@
-# celycib-
+# celycib~
 ## Max project used for [ECB~ X SPLIT #3](https://fb.me/e/ItgOeekc)
 
 This is the Max(/msp) project I developed for a live performance for bicycle and live electronics.
