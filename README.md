@@ -8,3 +8,7 @@ The performance occurred on the 18th of June 2021 at [SPLIT Bologna](https://www
 The project is intended to be used with some microphones input from a bicycle.
 
 I used a variety of different tools, like externals from [FluCoMa](https://github.com/flucoma) package or sogs~ from [IRCAM's sound box](https://forum.ircam.fr/projects/detail/max-sound-box/), as well as some {not-well-written} abstractions I made.
+
+A special thanks to [Rodrigo Constanzo](https://rodrigoconstanzo.com/) for talking about this and the externals he shares with the world!
+
+I am not a good or smart developer.
